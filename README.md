@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html, css and javaScript
 - 💞️ I’m looking to collaborate/build on projects for my portfolio...
 - 📫 How to reach me scegob@gmail.com
+- https://www.linkedin.com/in/scegob/
 - 
 
 <!---
