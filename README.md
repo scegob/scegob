@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scegob
 - 👀 I’m interested in becoming a front-end web developer...
-- 🌱 I’m currently learning html, css and javaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Jquery, Bootstrap and React
 - 💞️ I’m looking to collaborate/build on projects for my portfolio...
 - 📫 How to reach me scegob@gmail.com
 - https://www.linkedin.com/mwlite/in/scegob
