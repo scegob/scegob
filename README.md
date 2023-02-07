@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a front-end web developer...
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Jquery, Bootstrap and React
 - 💞️ I’m looking to collaborate/build on projects for my portfolio...
-- You can read my articles on https://medium.com/me/stories/public
+- 📖You can read my articles on https://medium.com/me/stories/public
 - 📫 How to reach me scegob@gmail.com
 - https://www.linkedin.com/mwlite/in/scegob
 
