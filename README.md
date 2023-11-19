@@ -6,7 +6,14 @@
 - 📫 How to reach me scegob@gmail.com
 - https://www.linkedin.com/mwlite/in/scegob
 
-I am a student at the University of Washington Bothell studying Science Technology and Society. I have found a passion for front-end web development and I have not been able to stop since I started. I am a frontend bootcamp grad from Central Washington University partnered with Promineo Tech I have been studying javaScript, node.js, html, css,bootstrap and react I hoping to learn more about the ins and outs of coding. Promineo Tech taught us the skills necessary to be a high impact employee at a tech company. I was a Frontend Development Intern at Chosn Relationships a startup focusing on building a mental health application to build better relationships with family and friends. Currently writing on medium about tech and web development.
+I am a Science Technology and Society major and also a frontend bootcamp grad. I am also a writer at medium about my learning journey and sharing my thoughts. Finally I started STE{A}M an acronym for science technology engineering {art} technology.
+
+
+STE{A}M a Science technology and Society Publication's core philosophy is that progress in society comes from the collaboration of these different discipline. 
+
+
+STE{A}M also highlights the importance of incorporating art and creativity into STEM education and vice versa in the humanities. By encouraging students to explore the aesthetic and imaginative aspects of science and tech, it nurtures their curiosity, encourages innovation, and fosters a holistic understanding of the world.
+
 
 <!---
 scegob/scegob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
