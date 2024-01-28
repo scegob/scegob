@@ -12,7 +12,7 @@ I am a Science Technology and Society major and also a frontend bootcamp grad. T
 STE{A}M a Science technology and Society Publication's core philosophy is that progress in society comes from the collaboration of these different discipline. 
 
 
-STE{A}M also highlights the importance of incorporating art and creativity into STEM education and vice versa in the humanities. By encouraging students to explore the aesthetic and imaginative aspects of science and tech, it nurtures their curiosity, encourages innovation, and fosters a holistic understanding of the world.
+STE{A}M also highlights the importance of incorporating art and creativity into STEM education and vice versa in the humanities and business. By encouraging students to explore the aesthetic and imaginative aspects of science and tech, it nurtures their curiosity, encourages innovation, and fosters a holistic understanding of the world.
 
 
 <!---
